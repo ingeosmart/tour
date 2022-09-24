@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_7D796535_7170_13AA_41D0_7B6B1A8CFC46.label = IMG_20220924_163028_00_merged
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 2
